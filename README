@@ -1,1 +1,10 @@
-OMNOMNOM
+Instructions for Making Updates
+===============================
+
+git add <name of file changed>
+	git add index.html
+
+git commit -m "<message>"
+	git commit -m "added description"
+
+git push
